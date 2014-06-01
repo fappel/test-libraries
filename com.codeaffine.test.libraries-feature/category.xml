@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
    <feature url="features/com.codeaffine.test.libraries.feature_1.0.0.qualifier.jar" id="com.codeaffine.test.libraries.feature" version="1.0.0.qualifier">
-      <category name="com.codeaffine.test.library-category"/>
+      <category name="com.codeaffine.test.libraries"/>
    </feature>
-   <category-def name="com.codeaffine.test.library-category" label="Test Library Category">
+   <category-def name="com.codeaffine.test.libraries" label="Test Libraries">
       <description>
          This category contains features that provides JUnit related testing-utitlity bundles
       </description>
