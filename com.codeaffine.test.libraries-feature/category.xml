@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.codeaffine.osgi.testsuite.feature_1.0.0.20130628-1652.jar" id="com.codeaffine.osgi.testsuite.feature" version="1.0.0.20130628-1652">
-      <category name="com.codeaffine.test.library-category"/>
-   </feature>
    <feature url="features/com.codeaffine.test.libraries.feature_1.0.0.qualifier.jar" id="com.codeaffine.test.libraries.feature" version="1.0.0.qualifier">
       <category name="com.codeaffine.test.library-category"/>
    </feature>
