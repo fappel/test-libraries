@@ -2,7 +2,7 @@
 <feature
       id="com.codeaffine.test.libraries.feature"
       label="Test Libraries Feature"
-      version="1.0.0.qualifier"
+      version="1.1.0.qualifier"
       provider-name="CODEAFFINE">
 
    <description url="http://www.example.com/description">
